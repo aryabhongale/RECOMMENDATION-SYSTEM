@@ -29,3 +29,9 @@ For evaluation, Precision@K and Recall@K metrics were used. Precision@K measures
 Visualization played an important role in understanding the dataset and validating the system. A bar chart was created to show mood distribution across songs. A scatter plot of energy versus valence helped visualize emotional clustering of songs, where high energy and high valence indicated happy or energetic songs, while low values indicated sad songs. Additionally, average feature comparisons across moods helped confirm that the audio features align logically with emotional categories.
 
 This system is categorized as a content-based recommendation system because it relies solely on item features rather than user interaction data. It is suitable for scenarios where user ratings or listening history are unavailable. However, it does not provide deep personalization without user behavior data. In real-world applications, companies like Spotify use more advanced techniques such as deep learning, collaborative filtering, and user behavior modeling in combination with audio feature analysis. The implemented system represents a simplified academic model that demonstrates the core principles of feature-based music recommendation.
+
+output:
+<img width="759" height="460" alt="Image" src="https://github.com/user-attachments/assets/6b605e16-5dc8-41e7-bd63-17f6fb1185f7" />
+<img width="696" height="461" alt="Image" src="https://github.com/user-attachments/assets/8521ca3e-2659-4d50-bdfb-c3222e7168a6" />
+<img width="794" height="536" alt="Image" src="https://github.com/user-attachments/assets/5118db48-a6c0-4958-b890-671955e14971" />
+<img width="760" height="319" alt="Image" src="https://github.com/user-attachments/assets/3b0af5af-ccfd-40d8-b4bf-8c5ac59e0769" />
